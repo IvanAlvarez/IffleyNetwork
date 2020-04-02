@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Ivan Alvarez"
+  },
+  "text": {
+    "more": "Network properties of climbing holds at the the bouldering wall of the University of Oxford Iffley Sports Centre.",
+    "intro": "Iffley bouldering wall hold network.",
+    "title": "Iffley bouldering wall"
+  },
+  "legend": {
+    "edgeLabel": "Problem",
+    "colorLabel": "Hubness",
+    "nodeLabel": "Hold"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 2.5,
+      "minEdgeSize": 2.5,
+      "minNodeSize": 7,
+      "maxNodeSize": 22
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
