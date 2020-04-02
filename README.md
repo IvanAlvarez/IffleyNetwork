@@ -1,2 +1,2 @@
 # IffleyNetwork
-Network visualisation of University of Oxford Iffley Climbing Wall
+To view, navigate to https://ivanalvarez.github.io/IffleyNetwork/network
